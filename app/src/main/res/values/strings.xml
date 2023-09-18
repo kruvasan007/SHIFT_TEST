@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SHIFT_1809</string>
+    <string name="Name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="password">Введите пароль</string>
+    <string name="ConfirmPassword">Подтвердите пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="chooseDate">Выбрать дату рождения</string>
+    <string name="doRegistration">Зарегистрироваться</string>
+</resources>
